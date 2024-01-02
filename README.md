@@ -1,5 +1,3 @@
-## ASSIGNMENT 1 - SEARCH
-
 1. Download and install Python 2.7.18
 2. Add Python27 to Path
 3. C:\Python27\python.exe -m pip install --upgrade pip
