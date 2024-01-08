@@ -7,7 +7,7 @@
 
 4. C:\Python27\python.exe -m pip install virtualenv
 
-5. cd assignment 
+5. cd python27 
 
 6. C:\Python27\python.exe -m virtualenv venv
 
@@ -26,6 +26,6 @@
 
 5. sudo make altinstall
 
-6. cd assignment
+6. cd python27 
 
 7. python2.7 file.py
